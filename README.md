@@ -2,6 +2,11 @@
 
 Este é um projeto simples de uma aplicação de lista de compras desenvolvida em React. O aplicativo permite que os usuários adicionem itens e quantidades à lista e exibe um pop-up caso tentem adicionar um item sem preencher os campos obrigatórios.
 
+
+![Tela do Projeto - Lista de Compra](.../../shopping/src/images/img.png)
+
+![Tela do Projeto - Lista de Compra](.../../shopping/src/images/img1.png)
+
 ## Funcionalidades
 
 - Adicionar itens à lista de compras com nome e quantidade.
